@@ -146,5 +146,6 @@ Or
 python subscriber_tutorial.py
 ```
 
+![](turtleSim.gif)
 
 Congratulations, now you are able to subscribe and publish to rostopic node!!
